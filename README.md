@@ -17,7 +17,10 @@ HTML5, CSS3, JavaScript.
 
 # Installation and Setup
   Clone the repository:git clone https://github.com/ansarialiakbar/amazon-clone.git
+  
  Navigate to the project directory:cd amazon-clone
+ 
  Install dependencies:npm install
+ 
  Run the development server:npm run dev
 
